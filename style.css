@@ -62,7 +62,7 @@ ul li a{
 }
 
 ul li a:hover{
-    color: RED;
+    color: pink;
 }
 
 .search{
@@ -76,7 +76,7 @@ ul li a:hover{
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 1px solid red;
+    border: 1px solid pink;
     margin-top: 13px;
     color:black;
     border-right: none;
@@ -193,7 +193,7 @@ ul li a:hover{
     width: 240px;
     height: 35px;
     background: transparent;
-    border-bottom: 1px solid RED;
+    border-bottom: 1px solid pink;
     border-top: none;
     border-right: none;
     border-left: none;
@@ -242,7 +242,7 @@ ul li a:hover{
 }
 .form .link a{
     text-decoration: none;
-    color: red;
+    color: pink;
 }
 .liw{
     padding-top: 15px;
@@ -261,5 +261,5 @@ ul li a:hover{
     transition: 0.3s ease;
 }
 .icons ion-icon:hover{
-    color: red;
+    color: pink;
 }
