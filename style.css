@@ -26,7 +26,7 @@
 .logo{
     color:black;
     font-size: 35px;
-    font-family: Arial;
+    font-family: 'Times New Roman', Times, serif;
     padding-left: 20px;
     float: left;
     padding-top: 10px;
@@ -56,13 +56,13 @@ ul li{
 ul li a{
     text-decoration: none;
     color: black;
-    font-family: Arial;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
     transition: 0.4s ease-in-out;
 }
 
 ul li a:hover{
-    color: pink;
+    color: rgb(0, 255, 213);
 }
 
 .search{
@@ -76,7 +76,7 @@ ul li a:hover{
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 1px solid pink;
+    border: 1px solid rgb(0, 255, 213);
     margin-top: 13px;
     color:black;
     border-right: none;
@@ -90,10 +90,11 @@ ul li a:hover{
 .btn{
     width: 100px;
     height: 40px;
-    background: beige;
-    border: 2px solid #ff7200;
+    background: white;
+    border: 2px solid rgb(0, 255, 213);
     margin-top: 13px;
     color: BLACK;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 15px;
     border-bottom-right-radius: 5px;
     border-bottom-right-radius: 5px;
@@ -139,7 +140,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    background: pink;
+    background: rgb(0, 255, 213);
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -161,7 +162,7 @@ ul li a:hover{
 }
 
 .content span{
-    color: pink;
+    color: rgb(0, 255, 213);
     font-size: 65px
 }
 
@@ -181,7 +182,7 @@ ul li a:hover{
     width: 220px;
     font-family: sans-serif;
     text-align: center;
-    color: RED;
+    color: black;
     font-size: 22px;
     background-color: #fff;
     border-radius: 10px;
@@ -193,7 +194,7 @@ ul li a:hover{
     width: 240px;
     height: 35px;
     background: transparent;
-    border-bottom: 1px solid pink;
+    border-bottom: 1px solid rgb(0, 255, 213);
     border-top: none;
     border-right: none;
     border-left: none;
@@ -216,7 +217,7 @@ ul li a:hover{
 .btnn{
     width: 240px;
     height: 40px;
-    background: RED;
+    background: white;
     border: none;
     margin-top: 30px;
     font-size: 18px;
@@ -227,7 +228,7 @@ ul li a:hover{
 }
 .btnn:hover{
     background: #fff;
-    color: RED;
+    color:rgb(0, 255, 213);
 }
 .btnn a{
     text-decoration: none;
@@ -242,7 +243,7 @@ ul li a:hover{
 }
 .form .link a{
     text-decoration: none;
-    color: pink;
+    color:rgb(0, 255, 213);
 }
 .liw{
     padding-top: 15px;
@@ -261,5 +262,5 @@ ul li a:hover{
     transition: 0.3s ease;
 }
 .icons ion-icon:hover{
-    color: pink;
+    color: rgb(0, 255, 213);
 }
