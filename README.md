@@ -16,12 +16,13 @@ The "Webpage Design - Etudier" is a modern and visually appealing webpage templa
 
 ## Technologies Used
 
-i.HTML5
+i. HTML5
 
-ii.CSS3
+ii. CSS3
 
-iii.Ionicons for social media icons
+iii. Ionicons for social media icons
 
 ## Watch Live Demo here
+
 [Click Here](https://uharika77.github.io/login-page/)
 
